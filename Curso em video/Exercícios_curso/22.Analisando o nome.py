@@ -1,6 +1,6 @@
 '''Crie um programa que leia o nome completo de uma pessoa e mostre: 
   O nome com todoas as letras maíusculas e minúsculas.
-  Quatas letras ao todo (sem considerar espaços).
+  Quanstas letras ao todo (sem considerar espaços).
   Quantas letras tem o primeiro nome.'''
 
 # Zona de teste

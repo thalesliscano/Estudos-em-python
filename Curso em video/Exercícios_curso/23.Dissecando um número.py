@@ -1,4 +1,4 @@
-'''Faça um programa que lia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+'''Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 EX: Digite um número: 1834
 Unidade: 4   Dezena: 3  Centena: 8  Milha: 1
 '''
